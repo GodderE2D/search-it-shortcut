@@ -1,6 +1,9 @@
 {
   "rewrites": [
-    { "source": "/shortcut-not-found", "destination": "/shortcut-not-found.html" },
-    { "source": "/*.html", "destination": "/*" }
+    { "source": "/shortcut-not-found", "destination": "/shortcut-not-found.html" }
     ]
+}
+
+{
+  "cleanUrls": true
 }
