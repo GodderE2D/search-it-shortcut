@@ -5,8 +5,8 @@
 }
 
 {
-  "hosting": {
+  "hosting": [
     "public": "build",
     "cleanUrls": true
-  }
+  ]
 }
