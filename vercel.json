@@ -1,12 +1,6 @@
 {
   "rewrites": [
-    { "source": "/shortcut-not-found", "destination": "/shortcut-not-found.html" }
+    { "source": "/shortcut-not-found", "destination": "/shortcut-not-found.html" },
+    { "source": "/*.html", "destination": "/*" }
     ]
-}
-
-{
-  "hosting": [
-    "public": "build",
-    "cleanUrls": true
-  ]
 }
