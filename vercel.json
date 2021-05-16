@@ -1,5 +1,5 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
   
     "redirects": [
     { "source": ".", "destination": "https://docs.search-it-shortcut.tk/", "permanent": true }
