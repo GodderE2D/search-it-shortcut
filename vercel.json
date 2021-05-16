@@ -1,4 +1,7 @@
 {
-  "rewrites": [{ "source": "/api/(.*)", "destination": "404.json" }],
   "cleanUrls": true
+  
+    "redirects": [
+    { "source": ".", "destination": "https://docs.search-it-shortcut.tk/", "permanent": true }
+  ]
 }
