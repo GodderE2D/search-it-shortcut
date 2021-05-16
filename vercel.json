@@ -1,4 +1,4 @@
 {
-  "rewrites": [{ "source": "/api/(.*)", "destination": "404.js" }],
+  "rewrites": [{ "source": "/api/(.*)", "destination": "404.json" }],
   "cleanUrls": true
 }
